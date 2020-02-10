@@ -12,7 +12,7 @@
 	url = https://github.com/xtrx-sdr/libxtrxll
 [submodule "sources/libxtrx"]
 	path = sources/libxtrx
-	url = https://github.com/xtrx-sdr/libxtrx
+	url = https://github.com/mzurzolo/libxtrx
 [submodule "sources/liblms7002m"]
 	path = sources/liblms7002m
 	url = https://github.com/xtrx-sdr/liblms7002m.git
